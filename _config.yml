@@ -2,3 +2,5 @@ title: My Website
 description: Personal website hosted with GitHub Pages
 
 markdown: kramdown
+
+theme: jekyll-theme-midnight
