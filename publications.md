@@ -19,7 +19,7 @@ Select a paper to read an accessible explanation.
     src="{{ '/assets/images/publications/paper-1-preview.svg' | relative_url }}"
     alt="Preview figure for Paper 1">
   <div class="paper-card-text">
-    <h2>Paper 1 title</h2>
+    <h2>Mean-field theories for depinning and their experimental signatures</h2>
     <p>Short one-sentence description of Paper 1.</p>
   </div>
 </a>
@@ -29,7 +29,7 @@ Select a paper to read an accessible explanation.
     src="{{ '/assets/images/publications/paper-2-preview.svg' | relative_url }}"
     alt="Preview figure for Paper 2">
   <div class="paper-card-text">
-    <h2>Paper 2 title</h2>
+    <h2>Force-force correlations in disordered magnets</h2>
     <p>Short one-sentence description of Paper 2.</p>
   </div>
 </a>
@@ -39,7 +39,7 @@ Select a paper to read an accessible explanation.
     src="{{ '/assets/images/publications/paper-3-preview.svg' | relative_url }}"
     alt="Preview figure for Paper 3">
   <div class="paper-card-text">
-    <h2>Paper 3 title</h2>
+    <h2>Force-Force Correlator for Driven Disordered Systems at Finite Temperature</h2>
     <p>Short one-sentence description of Paper 3.</p>
   </div>
 </a>
@@ -49,7 +49,7 @@ Select a paper to read an accessible explanation.
     src="{{ '/assets/images/publications/paper-4-preview.svg' | relative_url }}"
     alt="Preview figure for Paper 4">
   <div class="paper-card-text">
-    <h2>Paper 4 title</h2>
+    <h2>Experimental test of Sinai's model in DNA unzipping experiments</h2>
     <p>Short one-sentence description of Paper 4.</p>
   </div>
 </a>
@@ -59,7 +59,7 @@ Select a paper to read an accessible explanation.
     src="{{ '/assets/images/publications/paper-5-preview.svg' | relative_url }}"
     alt="Preview figure for Paper 5">
   <div class="paper-card-text">
-    <h2>Paper 5 title</h2>
+    <h2>Physics of droplet regulation in biological cells</h2>
     <p>Short one-sentence description of Paper 5.</p>
   </div>
 </a>
@@ -69,7 +69,7 @@ Select a paper to read an accessible explanation.
     src="{{ '/assets/images/publications/paper-6-preview.svg' | relative_url }}"
     alt="Preview figure for Paper 6">
   <div class="paper-card-text">
-    <h2>Paper 6 title</h2>
+    <h2>Efficient formation of Turing patterns using physical interactions</h2>
     <p>Short one-sentence description of Paper 6.</p>
   </div>
 </a>
@@ -79,7 +79,7 @@ Select a paper to read an accessible explanation.
     src="{{ '/assets/images/publications/paper-7-preview.svg' | relative_url }}"
     alt="Preview figure for Paper 7">
   <div class="paper-card-text">
-    <h2>Paper 7 title</h2>
+    <h2>Spatio-temporal dynamics of Turing patterns with physical interactions</h2>
     <p>Short one-sentence description of Paper 7.</p>
   </div>
 </a>
