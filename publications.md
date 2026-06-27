@@ -16,7 +16,7 @@ Select a paper to read an accessible explanation.
 
 <a class="paper-card" href="{{ '/publications/paper-1/' | relative_url }}">
   <img
-    src="{{ '/assets/images/publications/paper-1-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-1-preview.png' | relative_url }}"
     alt="Preview figure for Paper 1">
   <div class="paper-card-text">
     <h2>Mean-field theories for depinning and their experimental signatures</h2>
@@ -66,7 +66,7 @@ Select a paper to read an accessible explanation.
 
 <a class="paper-card" href="{{ '/publications/paper-6/' | relative_url }}">
   <img
-    src="{{ '/assets/images/publications/paper-6-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-6-preview.png' | relative_url }}"
     alt="Preview figure for Paper 6">
   <div class="paper-card-text">
     <h2>Efficient formation of Turing patterns using physical interactions</h2>
