@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540">
+  <rect width="900" height="540" fill="#eef2f7"/>
+  <rect x="80" y="80" width="740" height="380" rx="24" fill="#ffffff" stroke="#c8d2df" stroke-width="4"/>
+  <line x1="160" y1="390" x2="740" y2="390" stroke="#7b8794" stroke-width="5"/>
+  <line x1="160" y1="390" x2="160" y2="160" stroke="#7b8794" stroke-width="5"/>
+  <polyline points="170,360 260,300 350,330 440,220 530,260 620,170 730,205"
+            fill="none" stroke="#3d6fa8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="450" y="505" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" fill="#263442">
+    Paper 3 preview figure
+  </text>
+</svg>
