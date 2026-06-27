@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Paper 6
-permalink: /papers/paper-6/
+permalink: /publications/paper-6/
 ---
 
-<a class="back-link" href="{{ '/papers/' | relative_url }}">← Back to all papers</a>
+<a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
 # Paper 6 title
 
@@ -16,7 +16,7 @@ permalink: /papers/paper-6/
 
 <figure class="paper-hero">
   <img
-    src="{{ '/assets/images/papers/paper-6-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-6-preview.svg' | relative_url }}"
     alt="Main figure for Paper 6">
   <figcaption>
     Replace this placeholder with a figure and caption from the paper.

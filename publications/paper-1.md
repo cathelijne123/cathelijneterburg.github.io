@@ -1,22 +1,22 @@
 ---
 layout: default
 title: Paper 1
-permalink: /papers/paper-1/
+permalink: /publications/paper-1/
 ---
 
-<a class="back-link" href="{{ '/papers/' | relative_url }}">← Back to all papers</a>
+<a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
-# Paper 1 title
+# Mean-field theories for depinning and their experimental signatures
 
-**Authors:** Add the authors here  
-**Journal or preprint:** Add publication details here  
-**Year:** Add year here
+**Authors:** Cathelijne ter Burg and Kay Wiese
+**Journal or preprint:** Physical Review E, 103, 052114  
+**Year:** 2021
 
 [Read the original paper](https://example.com)
 
 <figure class="paper-hero">
   <img
-    src="{{ '/assets/images/papers/paper-1-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-1-preview.svg' | relative_url }}"
     alt="Main figure for Paper 1">
   <figcaption>
     Replace this placeholder with a figure and caption from the paper.
