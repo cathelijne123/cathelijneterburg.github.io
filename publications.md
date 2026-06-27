@@ -20,7 +20,7 @@ Select a paper to read an accessible explanation.
     alt="Preview figure for Paper 1">
   <div class="paper-card-text">
     <h2>Mean-field theories for depinning and their experimental signatures</h2>
-    <p>Short one-sentence description of Paper 1.</p>
+    <p>A study of the force-force correlator in disordered systems.</p>
   </div>
 </a>
 
@@ -30,7 +30,7 @@ Select a paper to read an accessible explanation.
     alt="Preview figure for Paper 2">
   <div class="paper-card-text">
     <h2>Force-force correlations in disordered magnets</h2>
-    <p>Short one-sentence description of Paper 2.</p>
+    <p>A study of the force-force correlator in disordered magnets.</p>
   </div>
 </a>
 
@@ -40,7 +40,7 @@ Select a paper to read an accessible explanation.
     alt="Preview figure for Paper 3">
   <div class="paper-card-text">
     <h2>Force-Force Correlator for Driven Disordered Systems at Finite Temperature</h2>
-    <p>Short one-sentence description of Paper 3.</p>
+    <p>A study of the force-force correlator in disordered systems with thermal noise.</p>
   </div>
 </a>
 
@@ -50,7 +50,7 @@ Select a paper to read an accessible explanation.
     alt="Preview figure for Paper 4">
   <div class="paper-card-text">
     <h2>Experimental test of Sinai's model in DNA unzipping experiments</h2>
-    <p>Short one-sentence description of Paper 4.</p>
+    <p>A study of the force-force correlator in DNA-unzipping</p>
   </div>
 </a>
 
@@ -60,7 +60,7 @@ Select a paper to read an accessible explanation.
     alt="Preview figure for Paper 5">
   <div class="paper-card-text">
     <h2>Physics of droplet regulation in biological cells</h2>
-    <p>Short one-sentence description of Paper 5.</p>
+    <p>A review on regulation of biomolecular condensates in cells.</p>
   </div>
 </a>
 
@@ -70,7 +70,7 @@ Select a paper to read an accessible explanation.
     alt="Preview figure for Paper 6">
   <div class="paper-card-text">
     <h2>Efficient formation of Turing patterns using physical interactions</h2>
-    <p>Short one-sentence description of Paper 6.</p>
+    <p>A study on the energetics of Turing patterns with repulsive interactions.</p>
   </div>
 </a>
 
@@ -80,7 +80,7 @@ Select a paper to read an accessible explanation.
     alt="Preview figure for Paper 7">
   <div class="paper-card-text">
     <h2>Spatio-temporal dynamics of Turing patterns with physical interactions</h2>
-    <p>Short one-sentence description of Paper 7.</p>
+    <p>A study on the spatio-temporal dynamics of Turing patterns with repulsive interactions.</p>
   </div>
 </a>
 
