@@ -16,7 +16,7 @@ permalink: /publications/paper-7/
 
 <figure class="paper-hero">
   <img
-    src="{{ '/assets/images/publications/paper-7-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-7-preview.png' | relative_url }}"
     alt="Main figure for Paper 7">
   <figcaption>
     Replace this placeholder with a figure and caption from the paper.

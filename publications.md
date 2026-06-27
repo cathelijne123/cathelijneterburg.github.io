@@ -36,7 +36,7 @@ Select a paper to read an accessible explanation.
 
 <a class="paper-card" href="{{ '/publications/paper-3/' | relative_url }}">
   <img
-    src="{{ '/assets/images/publications/paper-3-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-3-preview.png' | relative_url }}"
     alt="Preview figure for Paper 3">
   <div class="paper-card-text">
     <h2>Force-Force Correlator for Driven Disordered Systems at Finite Temperature</h2>
@@ -76,7 +76,7 @@ Select a paper to read an accessible explanation.
 
 <a class="paper-card" href="{{ '/publications/paper-7/' | relative_url }}">
   <img
-    src="{{ '/assets/images/publications/paper-7-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-7-preview.png' | relative_url }}"
     alt="Preview figure for Paper 7">
   <div class="paper-card-text">
     <h2>Spatio-temporal dynamics of Turing patterns with physical interactions</h2>
