@@ -26,7 +26,7 @@ Select a paper to read an accessible explanation.
 
 <a class="paper-card" href="{{ '/publications/paper-2/' | relative_url }}">
   <img
-    src="{{ '/assets/images/publications/paper-2-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-2-preview.png' | relative_url }}"
     alt="Preview figure for Paper 2">
   <div class="paper-card-text">
     <h2>Force-force correlations in disordered magnets</h2>
@@ -46,7 +46,7 @@ Select a paper to read an accessible explanation.
 
 <a class="paper-card" href="{{ '/publications/paper-4/' | relative_url }}">
   <img
-    src="{{ '/assets/images/publications/paper-4-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-4-preview.png' | relative_url }}"
     alt="Preview figure for Paper 4">
   <div class="paper-card-text">
     <h2>Experimental test of Sinai's model in DNA unzipping experiments</h2>
