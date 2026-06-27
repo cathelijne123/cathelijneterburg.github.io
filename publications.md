@@ -56,7 +56,7 @@ Select a paper to read an accessible explanation.
 
 <a class="paper-card" href="{{ '/publications/paper-5/' | relative_url }}">
   <img
-    src="{{ '/assets/images/publications/paper-5-preview.svg' | relative_url }}"
+    src="{{ '/assets/images/publications/paper-5-preview.png' | relative_url }}"
     alt="Preview figure for Paper 5">
   <div class="paper-card-text">
     <h2>Physics of droplet regulation in biological cells</h2>
