@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Paper 3
+title: Force-Force Correlator for Driven Disordered Systems at Finite Temperature
 permalink: /publications/paper-3/
 ---
 
 <a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
-# Paper 3 title
+# Force-Force Correlator for Driven Disordered Systems at Finite Temperature
 
-**Authors:** Add the authors here  
-**Journal or preprint:** Add publication details here  
-**Year:** Add year here
+**Authors:** Cathelijne ter Burg and Kay Wiese  
+**Journal or preprint:** Physical Review E 112, 014109  
+**Year:** 2025
 
 [Read the original paper](https://example.com)
 

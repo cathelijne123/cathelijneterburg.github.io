@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Paper 2
+title: Force-force correlations in disordered magnets
 permalink: /publications/paper-2/
 ---
 
 <a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
-# Paper 2 title
+# Force-force correlations in disordered magnets
 
-**Authors:** Add the authors here  
-**Journal or preprint:** Add publication details here  
-**Year:** Add year here
+**Authors:** Cathelijne ter Burg, Felipe Bohn, Gianfranco Durin, R. Sommer and Kay Wiese 
+**Journal or preprint:** Physical Review Letters  129, 107205
+**Year:** 2022
 
 [Read the original paper](https://example.com)
 

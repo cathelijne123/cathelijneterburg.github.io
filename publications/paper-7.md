@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Paper 7
+title: Spatio-temporal dynamics of Turing patterns with physical interactions
 permalink: /publications/paper-7/
 ---
 
 <a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
-# Paper 7 title
+# Spatio-temporal dynamics of Turing patterns with physical interactions
 
-**Authors:** Add the authors here  
-**Journal or preprint:** Add publication details here  
-**Year:** Add year here
+**Authors:** Cathelijne ter Burg and David Zwicker  
+**Journal or preprint:** in preparation for publication in Physical Review Research  
+**Year:** 2026
 
 [Read the original paper](https://example.com)
 

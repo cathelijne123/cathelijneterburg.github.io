@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Paper 5
+title: Physics of droplet regulation in biological cells
 permalink: /publications/paper-5/
 ---
 
 <a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
-# Paper 5 title
+# Physics of droplet regulation in biological cells
 
-**Authors:** Add the authors here  
-**Journal or preprint:** Add publication details here  
-**Year:** Add year here
+**Authors:** David Zwicker, Oliver Paulin and Cathelijne ter Burg
+**Journal or preprint:** Reports on Progress in Physics 88, 11 
+**Year:** 2025
 
 [Read the original paper](https://example.com)
 

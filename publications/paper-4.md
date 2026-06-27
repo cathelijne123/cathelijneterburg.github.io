@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Paper 4
+title: Experimental test of Sinai's model in DNA unzipping experiments
 permalink: /publications/paper-4/
 ---
 
 <a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
-# Paper 4 title
+# Experimental test of Sinai's model in DNA unzipping experiments
 
-**Authors:** Add the authors here  
-**Journal or preprint:** Add publication details here  
-**Year:** Add year here
+**Authors:** Cathelijne ter Burg, Paolo Rissone, Felix Ritort and Kay Wiese  
+**Journal or preprint:** Physical Review Letters 130, 208401
+**Year:** 2023
 
 [Read the original paper](https://example.com)
 

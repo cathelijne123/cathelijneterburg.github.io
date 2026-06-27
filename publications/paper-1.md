@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Paper 1
+title: Mean-field theories for depinning and their experimental signatures
 permalink: /publications/paper-1/
 ---
 
