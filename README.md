@@ -1,5 +1,7 @@
 # Minimal GitHub Pages site
 
+<!-- This is a comment in a .md file. It explains notes and will not show in rendered Markdown. -->
+
 Files included:
 
 - `_config.yml`

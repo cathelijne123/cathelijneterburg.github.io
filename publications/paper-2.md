@@ -4,6 +4,8 @@ title: Force-force correlations in disordered magnets
 permalink: /publications/paper-2/
 ---
 
+<!-- This is a comment in a .md file. It explains page content and will not show on the website. -->
+
 <a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
 # Force-force correlations in disordered magnets

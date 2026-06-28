@@ -8,6 +8,8 @@ permalink: /publications/
 
 ---
 
+<!-- This is a comment in a .md file. It explains page content and will not show on the website. -->
+
 # Publications
 
 Select a paper to read an accessible explanation.

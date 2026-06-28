@@ -1,6 +1,6 @@
+# This is a comment in a .yml file. It explains settings and will not show on the website.
 title: My Website
 description: Personal website hosted with GitHub Pages
 
 markdown: kramdown
-
 theme: jekyll-theme-midnight

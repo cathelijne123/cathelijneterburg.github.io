@@ -1,29 +1,38 @@
 <!DOCTYPE html>
+<!-- This is a comment in a .html file. It explains layout code and will not show on the website. -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{{ page.title }} | {{ site.title }}</title>
+  <title>
+    {% if page.title %}
+      {{ page.title }} | {{ site.title }}
+    {% else %}
+      {{ site.title }}
+    {% endif %}
+  </title>
 
   <link rel="stylesheet"
         href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 
 <body>
-  <aside class="sidebar">
-    <h1>{{ site.title }}</h1>
+  <header class="site-header">
+    <div class="wrapper">
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
 
-    <nav>
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/about/' | relative_url }}">About</a>
-      <a href="{{ '/research/' | relative_url }}">Research</a>
-      <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      <nav class="site-nav">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        <a href="{{ '/about/' | relative_url }}">About</a>
+        <a href="{{ '/research/' | relative_url }}">Research</a>
+        <a href="{{ '/publications/' | relative_url }}">Publications</a>
+      </nav>
+    </div>
+  </header>
 
-    </nav>
-  </aside>
-
-  <main class="content">
+  <main class="wrapper">
     {{ content }}
   </main>
 </body>

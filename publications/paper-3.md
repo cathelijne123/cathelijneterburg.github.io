@@ -4,6 +4,8 @@ title: Force-Force Correlator for Driven Disordered Systems at Finite Temperatur
 permalink: /publications/paper-3/
 ---
 
+<!-- This is a comment in a .md file. It explains page content and will not show on the website. -->
+
 <a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
 # Force-Force Correlator for Driven Disordered Systems at Finite Temperature

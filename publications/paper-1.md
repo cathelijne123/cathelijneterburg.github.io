@@ -4,6 +4,8 @@ title: Mean-field theories for depinning and their experimental signatures
 permalink: /publications/paper-1/
 ---
 
+<!-- This is a comment in a .md file. It explains page content and will not show on the website. -->
+
 <a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
 # Mean-field theories for depinning and their experimental signatures

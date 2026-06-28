@@ -4,6 +4,8 @@ title: Physics of droplet regulation in biological cells
 permalink: /publications/paper-5/
 ---
 
+<!-- This is a comment in a .md file. It explains page content and will not show on the website. -->
+
 <a class="back-link" href="{{ '/publications/' | relative_url }}">← Back to all papers</a>
 
 # Physics of droplet regulation in biological cells
